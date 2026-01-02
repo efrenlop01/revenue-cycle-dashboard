@@ -1,0 +1,9 @@
+payor,total_claims,denied_claims,denial_rate_pct
+Cigna,81,9,11.11
+Medi-Cal,176,18,10.23
+Aetna,83,8,9.64
+"Blue Cross",91,6,6.59
+United,110,6,5.45
+Medicare,170,9,5.29
+Self-Pay,85,2,2.35
+Kaiser,104,2,1.92
