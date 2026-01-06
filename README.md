@@ -28,7 +28,9 @@ Primary and foreign keys enforce referential integrity across the revenue cycle.
 - Self-Pay and Medicare demonstrate the highest collection efficiency
 - Medi-Cal exhibits the longest average payment lag
 
-## Next Steps
-- Dashboarding in Tableau
-- Trend analysis by service line and facility
+## Business Impact Interpretation
+
+- High denial rates for Cigna and Medi-Cal may indicate authorization or eligibility issues.
+- Self-Pay and Medicare demonstrate stronger collection efficiency, suggesting lower write-offs.
+- Longer payment lags for Medi-Cal may negatively impact cash flow and AR aging.
 
