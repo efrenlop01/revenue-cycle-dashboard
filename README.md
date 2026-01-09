@@ -5,6 +5,12 @@ This project models and analyzes a healthcare revenue cycle using a relational M
 The goal is to identify payor performance issues related to claim denials, cash collection efficiency,
 and payment delays.
 
+## Business Questions Addressed
+- Which payors contribute the highest claim denial rates?
+- Where is revenue leakage occurring due to low collection efficiency?
+- How long does it take to receive payment after claim submission?
+- Which payors and service lines create the most AR lag?
+
 ## Data Model
 - patients
 - encounters
