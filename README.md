@@ -29,6 +29,14 @@ Primary and foreign keys enforce referential integrity across the revenue cycle.
 - MySQL Workbench
 - SQL (joins, aggregations, CASE statements)
 
+  ## SQL Highlights
+- Multi-table joins across claims, encounters, and payments
+- Aggregations using GROUP BY (payor, service line, month)
+- CASE statements to flag denied claims
+- Date calculations to compute average days to payment
+- Creation of derived KPI tables for downstream analysis
+
+
 ## Results Summary
 - Cigna and Medi-Cal show the highest denial rates
 - Self-Pay and Medicare demonstrate the highest collection efficiency
