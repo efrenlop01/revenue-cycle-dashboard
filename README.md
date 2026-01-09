@@ -29,7 +29,7 @@ Primary and foreign keys enforce referential integrity across the revenue cycle.
 - MySQL Workbench
 - SQL (joins, aggregations, CASE statements)
 
-  ## SQL Highlights
+ ## SQL Highlights
 - Multi-table joins across claims, encounters, and payments
 - Aggregations using GROUP BY (payor, service line, month)
 - CASE statements to flag denied claims
